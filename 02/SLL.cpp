@@ -80,13 +80,20 @@ void Delete_After(List *L, adr *prec, adr *p)
 
 void Show(List *L)
 {
-    adr p = L->first;
-    while (p != NULL)
+    if (L->first == NULL)
     {
-        cout << "NISN: " << p->info.nisn << endl;
-        cout << "Nama: " << p->info.nama << endl;
-        cout << "Kelas: " << p->info.kelas << endl;
-        cout << endl;
-        p = p->next;
+        cout << "list kosong" << endl;
+    }
+    else
+    {
+        adr p = L->first;
+        while (p != NULL)
+        {
+            cout << "NISN: " << p->info.nisn << endl;
+            cout << "Nama: " << p->info.nama << endl;
+            cout << "Kelas: " << p->info.kelas << endl;
+            cout << endl;
+            p = p->next;
+        }
     }
 }
