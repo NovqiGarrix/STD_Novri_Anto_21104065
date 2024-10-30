@@ -8,8 +8,7 @@ Judul   : Tugas Pendahuluan Modul 06
 ## Nomor 1
 *Soal*: Menambahkan Elemen di Awal dan Akhir DLL
 
-*Deskripsi Soal*: Buatlah program yang mengizinkan pengguna menambahkan elemen ke dalam Double
-Linked List di awal dan di akhir list.
+*Deskripsi Soal*: Buatlah program yang mengizinkan pengguna menambahkan elemen ke dalam Double Linked List di awal dan di akhir list.
 
 *Instruksi*:
 1. Implementasikan fungsi `insertFirst` untuk menambahkan elemen di awal list.
