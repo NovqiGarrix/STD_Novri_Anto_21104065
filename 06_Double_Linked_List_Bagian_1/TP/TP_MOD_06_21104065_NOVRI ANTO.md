@@ -3,7 +3,7 @@
 ## Cover
 Nama    : Novri Anto <br>
 NIM     : 21104065 <br>
-Judul   : Tugas Pendahuluan Modul 05
+Judul   : Tugas Pendahuluan Modul 06
 
 ## Nomor 1
 *Soal*: Menambahkan Elemen di Awal dan Akhir DLL
