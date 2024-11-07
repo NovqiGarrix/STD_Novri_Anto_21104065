@@ -34,7 +34,7 @@ public:
         {
             if (isEmpty())
             {
-                head = 0;
+                head++;
             }
 
             tail++;
